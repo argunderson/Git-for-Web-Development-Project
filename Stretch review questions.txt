@@ -1,0 +1,22 @@
+Stretch Review questions: 
+
+1. What is the difference between an inline element and a block element? 
+
+	Inline elements do not cause a line break while block level elements always start on a new line.
+
+2. What happens when an element is positioned absolutely? 
+
+	This element is positioned relative to it's parent.
+
+3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+
+	By giving it display: flex and also a % width.
+
+4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default: 
+
+	<div> <h1> <p>  |  <span> <a>
+
+5. In your own words, explain the box model. What is the fix for the box model? 
+
+	Box model is the entire area that includes the content, padding, border and margin. 
+	Box-sizing: border-box is the best fix.
